@@ -1,0 +1,27 @@
+JetBrains Toolbox Subscription Certificate
+
+IMPORTANT: THIS IS TO CERTIFY THE RIGHT TO USE THE JETBRAINS SOFTWARE PRODUCT GRANTED BY JETBRAINS S.R.O.
+PURSUANT TO CONDITIONS OF THE TERMS OF USE. PLEASE SAVE A COPY OF THIS DOCUMENT FOR FUTURE REFERENCE.
+LICENSE DETAILS
+Type: Personal License
+Reference No*: R18131016
+Date of issue: 14 October 2023
+Billing period: Monthly
+Valid through: 13 November 2023
+Number of authorized users: 1
+* Please quote this order reference or License ID when contacting JetBrains
+SOFTWARE ACTIVATION
+Please follow the link https://account.jetbrains.com/order/assets/3xml3yorqdth5adykos9wsrcu to proceed with software
+activation.
+LICENSEE
+Name: 克利 寳迫
+Customer ID: 17660315
+SOFTWARE PRODUCT
+Product name: PyCharm
+Licensed version: any product(s) release made available during usage term
+The software is shipped electronically and is available for download from: https://www.jetbrains.com/pycharm/download
+LICENSE ID
+License ID identifies the license across renewals, conversions, upgrades etc. License ID can be used to search for a
+particular license on JetBrains Account website as well as to communicate with JetBrains sales representatives.
+License ID is NOT a license key and will not allow activation of the product.
+License ID: 2J5NJ5BBZB
